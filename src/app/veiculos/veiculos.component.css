@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+
+
+.example-button-row {
+    padding-top: 2%;
+    padding-left: 350%;
+    display: table-cell;
+    width: 490px;
+  }
+  
